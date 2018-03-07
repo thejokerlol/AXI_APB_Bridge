@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/vamsi/Desktop/2nd_presentation_code/AXI_APB_Bridge/AXI_APB_Bridge.srcs/sources_1/new/AXI_APB_Bridge.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AXI_APB_Bridge
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/vamsi/Desktop/2nd_presentation_code/AXI_APB_Bridge/AXI_APB_Bridge.srcs/sim_1/new/AXI2APB_TestBench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AXI2APB_TestBench
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/vamsi/Desktop/2nd_presentation_code/AXI_APB_Bridge/AXI_APB_Bridge.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,15 @@
+Vivado Simulator 2015.2
+Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2015.2/bin/unwrapped/win64.o/xelab.exe -wto 662ab962c5114c8d928d90978af5f7f4 --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot AXI2APB_TestBench_behav xil_defaultlib.AXI2APB_TestBench xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 1 differs from formal bit length 2 for port AWBURST [C:/Users/vamsi/Desktop/2nd_presentation_code/AXI_APB_Bridge/AXI_APB_Bridge.srcs/sim_1/new/AXI2APB_TestBench.v:91]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.AXI_APB_Bridge
+Compiling module xil_defaultlib.AXI2APB_TestBench
+Compiling module xil_defaultlib.glbl
+Waiting for 2 sub-compilation(s) to finish...
+Built simulation snapshot AXI2APB_TestBench_behav
